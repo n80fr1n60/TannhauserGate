@@ -1,5 +1,12 @@
 [PIN TOOLS]
-https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
-https://software.intel.com/en-us/articles/program-recordreplay-toolkit
-https://github.com/SideChannelMarvels/Tracer/tree/master/TracerPIN
-https://github.com/jingpu/pintools
+	https://stackoverflow.com/questions/35511380/intel-pin-tool-on-linux-4-0	
+	https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
+	https://software.intel.com/en-us/articles/program-recordreplay-toolkit
+	https://github.com/SideChannelMarvels/Tracer/tree/master/TracerPIN
+	https://github.com/jingpu/pintools
+
+[OBFUSCATION]
+	https://www.blackhat.com/docs/eu-16/materials/eu-16-David-Code-Deobfuscation-Intertwining-Dynamic-Static-And-Symbolic-Approaches.pdf
+	http://www.sysnet.ucsd.edu/~bjohanne/assets/papers/2014pprew.pdf
+	https://www2.cs.arizona.edu/people/debray/Publications/checksumming-attack.pdf
+
