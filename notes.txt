@@ -1,4 +1,9 @@
 [PIN TOOLS]
+	https://msdn.microsoft.com/en-us/magazine/dn818497.aspx
+	https://cs.gmu.edu/~astavrou/courses/ISA_673_S13/PIN_lecture.pdf
+	http://www.ic.unicamp.br/~rodolfo/mo801/04-PinTutorial.pdf
+	https://www.hex-rays.com/products/ida/support/tutorials/pin/pin_tutorial.pdf
+	https://software.intel.com/sites/default/files/managed/62/f4/cgo2013.pdf
 	https://stackoverflow.com/questions/35511380/intel-pin-tool-on-linux-4-0	
 	https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
 	https://software.intel.com/en-us/articles/program-recordreplay-toolkit
@@ -9,4 +14,15 @@
 	https://www.blackhat.com/docs/eu-16/materials/eu-16-David-Code-Deobfuscation-Intertwining-Dynamic-Static-And-Symbolic-Approaches.pdf
 	http://www.sysnet.ucsd.edu/~bjohanne/assets/papers/2014pprew.pdf
 	https://www2.cs.arizona.edu/people/debray/Publications/checksumming-attack.pdf
+
+
+[OS]
+	https://os.phil-opp.com/entering-longmode/
+
+
+
+[CTF]
+
+
+[BOOKs]
 
