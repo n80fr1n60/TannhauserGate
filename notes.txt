@@ -10,6 +10,9 @@
 	https://github.com/SideChannelMarvels/Tracer/tree/master/TracerPIN
 	https://github.com/jingpu/pintools
 
+[BINARY ANALYSIS]
+	https://github.com/BinaryAnalysisPlatform
+
 [OBFUSCATION]
 	https://www.blackhat.com/docs/eu-16/materials/eu-16-David-Code-Deobfuscation-Intertwining-Dynamic-Static-And-Symbolic-Approaches.pdf
 	http://www.sysnet.ucsd.edu/~bjohanne/assets/papers/2014pprew.pdf
@@ -19,10 +22,9 @@
 [OS]
 	https://os.phil-opp.com/entering-longmode/
 
-
-
 [CTF]
 
-
 [BOOKs]
+
+
 
