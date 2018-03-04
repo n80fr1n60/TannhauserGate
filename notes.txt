@@ -1,4 +1,11 @@
 [PIN TOOLS]
+	[ideas and usage]
+	https://github.com/blucia0a/PinCFG/blob/master/IFR_PinDriver.cpp
+	https://github.com/carlosgprado/PinTools/blob/master/PIN_hit_tracer/PIN_hit_tracer.cpp
+	https://github.com/corelan/pin/blob/master/win32/Corelan_HeapLog/Corelan_HeapLog.cpp
+	https://github.com/JonathanSalwan/stuffz/blob/master/Pin-tool-InMemoryFuzzing.cpp
+	https://github.com/DataChi/memdb
+	
 	https://msdn.microsoft.com/en-us/magazine/dn818497.aspx
 	https://cs.gmu.edu/~astavrou/courses/ISA_673_S13/PIN_lecture.pdf
 	http://www.ic.unicamp.br/~rodolfo/mo801/04-PinTutorial.pdf
