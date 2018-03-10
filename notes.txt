@@ -1,36 +1,49 @@
 [PIN TOOLS]
 	[github]
-	https://github.com/blucia0a/PinCFG/blob/master/IFR_PinDriver.cpp
-	https://github.com/carlosgprado/PinTools/blob/master/PIN_hit_tracer/PIN_hit_tracer.cpp
-	https://github.com/corelan/pin/blob/master/win32/Corelan_HeapLog/Corelan_HeapLog.cpp
-	https://github.com/JonathanSalwan/stuffz/blob/master/Pin-tool-InMemoryFuzzing.cpp
-	https://github.com/DataChi/memdb
-	https://github.com/jingpu/pintools/blob/master/source/tools/ToolUnitTests/rewritememop.cpp
-	https://github.com/jingpu/pintools/blob/master/source/tools/Tests/ea_verifier.cpp
+		https://github.com/blucia0a/PinCFG/blob/master/IFR_PinDriver.cpp
+		https://github.com/carlosgprado/PinTools/blob/master/PIN_hit_tracer/PIN_hit_tracer.cpp
+		https://github.com/corelan/pin/blob/master/win32/Corelan_HeapLog/Corelan_HeapLog.cpp
+		https://github.com/JonathanSalwan/stuffz/blob/master/Pin-tool-InMemoryFuzzing.cpp
+		https://github.com/DataChi/memdb
+		https://github.com/SideChannelMarvels/Tracer/tree/master/TracerPIN
+		https://github.com/jingpu/pintools
 	
 	[stackoverflow]
-	https://stackoverflow.com/questions/46640202/modify-application-instruction-in-pin
+		https://stackoverflow.com/questions/46640202/modify-application-instruction-in-pin
+
+[github]
+	https://github.com/DynamoRIO
+	https://github.com/ncatlin
+	https://github.com/NRauschmayr
+	https://github.com/gaasedelen	`
 	
-	[misc]
-	https://msdn.microsoft.com/en-us/magazine/dn818497.aspx
-	https://cs.gmu.edu/~astavrou/courses/ISA_673_S13/PIN_lecture.pdf
-	http://www.ic.unicamp.br/~rodolfo/mo801/04-PinTutorial.pdf
+[misc]
 	https://www.hex-rays.com/products/ida/support/tutorials/pin/pin_tutorial.pdf
 	https://software.intel.com/sites/default/files/managed/62/f4/cgo2013.pdf
 	https://stackoverflow.com/questions/35511380/intel-pin-tool-on-linux-4-0	
 	https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
 	https://software.intel.com/en-us/articles/program-recordreplay-toolkit
-	https://github.com/SideChannelMarvels/Tracer/tree/master/TracerPIN
-	https://github.com/jingpu/pintools
 
-[BINARY ANALYSIS]
+	https://crypto.stanford.edu/cs155old/cs155-spring07/self-checking-code.pdf
+	https://edmcman.github.io/papers/oakland10.pdf
+	https://web.stanford.edu/class/cs343/resources/pin.pdf
+	http://www.ic.unicamp.br/~rodolfo/mo801/04-PinTutorial.pdf
+	http://0xeb.net/2018/03/using-z3-with-ida-to-simplify-arithmetic-operations-in-functions/
+	
+[bnary analysis]
 	https://github.com/BinaryAnalysisPlatform
+	https://github.com/trailofbits/mcsema/blob/master/docs/DebuggingTips.md
+	https://msdn.microsoft.com/en-us/magazine/dn818497.aspx
+	https://cs.gmu.edu/~astavrou/courses/ISA_673_S13/PIN_lecture.pdf
+	http://www.ic.unicamp.br/~rodolfo/mo801/04-PinTutorial.pdf
 
-[OBFUSCATION]
+[obfuscation]
 	https://www.blackhat.com/docs/eu-16/materials/eu-16-David-Code-Deobfuscation-Intertwining-Dynamic-Static-And-Symbolic-Approaches.pdf
 	http://www.sysnet.ucsd.edu/~bjohanne/assets/papers/2014pprew.pdf
 	https://www2.cs.arizona.edu/people/debray/Publications/checksumming-attack.pdf
 
+[llvm]
+	http://blog.llvm.org/2010/04/intro-to-llvm-mc-project.html
 
 [OS]
 	https://os.phil-opp.com/entering-longmode/
